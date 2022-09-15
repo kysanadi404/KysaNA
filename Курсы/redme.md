@@ -1,1 +1,3 @@
 
+Введение в искусственный интеллект 
+https://docs.google.com/document/d/12Nk6zNVEhqFSxAGTjcsvOyaJvm-bE2ls8NRliLqWq2k/edit
